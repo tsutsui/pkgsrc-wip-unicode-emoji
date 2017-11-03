@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	unicode-emoji-${EMOJI_VERSION}
-CATEGORIES=	fonts
+CATEGORIES=	textproc
 MASTER_SITES=	http://www.unicode.org/Public/emoji/${EMOJI_VERSION}/
 DIST_SUBDIR=	${PKGNAME_NOREV}
 DISTFILES=	${EMOJI_FILES}
